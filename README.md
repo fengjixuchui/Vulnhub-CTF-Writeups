@@ -3,7 +3,7 @@
 This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 
@@ -284,3 +284,22 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 275. [Loly:1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)
 276. [Tomato:1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
 277. [Chili:1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/)
+278. [Healthcare:1](https://www.hackingarticles.in/healthcare-1-vulnhub-walkthrough/)
+279. [Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)
+280. [Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)
+281. [CengBox:2](https://www.hackingarticles.in/cengbox-2-vulnhub-walkthrough/)
+282. [Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)
+283. [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)
+284. [Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)
+285. [HA:Narak](https://www.hackingarticles.in/ha-narak-vulnhub-walkthrough/)
+286. [Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)
+287. [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)
+288. [Panabee:1](https://www.hackingarticles.in/panabee-1-vulnhub-walkthrough/)
+289. [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)
+290. [Tempus Fugit:3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/)
+291. [Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)
+292. [HA: Forensics](https://www.hackingarticles.in/ha-forensics-vulnhub-walkthrough/)
+293. [KB-Vuln:3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/)
+294. [HA: Sherlock](https://www.hackingarticles.in/ha-sherlock-vulnhub-walkthrough/)
+295. [HA: Vedas](https://www.hackingarticles.in/ha-vedas-vulnhub-walkthrough/)
+296. [Cybox:1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)
